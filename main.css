@@ -41,6 +41,14 @@ header h1 {
     font-family: 'Bungee', cursive;
 }
 
+header a {
+    color: #FFFFFF;
+}
+
+header a:hover {
+    text-decoration: none;
+}
+
 nav {
     width: 100%;
     height: 25px;
